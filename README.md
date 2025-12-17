@@ -30,6 +30,9 @@ A simple command-line PHP game where the program randomly selects a number betwe
 
 # Output
 
-https://github.com/user-attachments/assets/dc64ab86-0a91-46d1-9bf1-f65bcd327ace
+
+
+https://github.com/user-attachments/assets/4d327c35-1b33-43d4-8ddd-bd3c636b0c84
+
 
 
